@@ -1,3 +1,7 @@
+<div alig='center'>
+  <h1>I am Heydar Badavi Majd, A Junior Programmer</h1>
+</div>
+
 <h3>My Expertise</h3>
 <img src="https://skillicons.dev/icons?i=py,html,css,php,js", alt="languages">
 
