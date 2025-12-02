@@ -2,7 +2,9 @@
     <h1>
         <a href="https://instagram.com/li.87o" rel="nofollow">HEYDAR BADAVI</a>
     </h1>
-  <h4>I am Heydar Badavi Majd! A Junior Programmer</h4>
+    <h4>Heydar Badavi Majd
+Junior Programmer | Aspiring Developer<h4>
+  <!-- <h4>I am Heydar Badavi Majd! A Junior Programmer</h4> -->
 </div>
 
 
