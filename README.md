@@ -1,4 +1,4 @@
-<div alig='center'>
+<div align='center'>
   <h1>I am Heydar Badavi Majd, A Junior Programmer</h1>
 </div>
 
