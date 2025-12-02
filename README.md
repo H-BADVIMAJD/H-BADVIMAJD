@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>I am Heydar Badavi Majd, A Junior Programmer</h1>
+  <h4>I am Heydar Badavi Majd, A Junior Programmer</h4>
 </div>
 
 
